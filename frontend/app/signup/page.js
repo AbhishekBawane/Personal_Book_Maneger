@@ -44,7 +44,7 @@ export default function Signup() {
       localStorage.setItem("token", data.token);
       localStorage.setItem("user", JSON.stringify(data.user));
 
-      router.push("/personal-books");
+      router.push("/");
     } catch (error) {
       setMessage("Unable to connect to server.");
     } finally {
