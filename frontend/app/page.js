@@ -22,7 +22,7 @@ export default function Home() {
 
     setLoggedIn(false);
 
-    router.push("/login");
+    router.push("/");
   }
 
   return (
