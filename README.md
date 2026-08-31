@@ -9,7 +9,7 @@ The application allows users to create an account, securely log in, manage their
 # 🌐 Live Application
 
 ### Frontend
-[https://YOUR-VERCEL-URL.vercel.app](https://personal-book-maneger.vercel.app?_vercel_share=gD62dV2SQdSTSRkC4OlZOEFkNsgeWMLk)
+[Live Link](https://personal-book-maneger.vercel.app?_vercel_share=gD62dV2SQdSTSRkC4OlZOEFkNsgeWMLk)
 
 ### Backend API
 https://personal-book-manager-2.onrender.com
